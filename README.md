@@ -1,2 +1,2 @@
 # GeoDataClustering
-Cuadernos de Jupyter que muestran el proceso de aplicar clustering a datos geofísicos de registros de pozo y perfiles sismicos verticales (VSP) para generar electrofacies, permitiendo la clasificación de formaciones geológicas. Incluye preparación de datos, selección de algoritmos de clustering y visualización de resultados.
+Jupyter notebooks showing the process of applying clustering to geophysical data from well logs and vertical seismic profiles (VSP) to generate electrofacies, allowing the classification of geological formations. Includes data preparation, selection of clustering algorithms and visualization of results.
