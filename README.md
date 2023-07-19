@@ -11,7 +11,7 @@ This repository contains a series of Jupyter notebooks that guide the process of
 Make sure you have Python and the required libraries installed. We recommend using Anaconda for easier environment setup.
 
 ## Clone this repository to your local machine:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/AlexBrena/GeoDataClustering.git
 
 
 1. Access the notebooks and open the Jupyter notebooks using Jupyter Notebook or JupyterLab.
