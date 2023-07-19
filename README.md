@@ -24,7 +24,7 @@ git clone https://github.com/AlexBrena/GeoDataClustering.git
 Contributions are welcome! If you want to improve the existing notebooks, add new functionalities, or fix issues, you can submit a pull request to review the proposed changes.
 
 ## License
-This repository is distributed under the MIT License. Please see the LICENSE file for more information on the rights and limitations of use.
+This repository is distributed under the Apache-2.0 License. Please see the LICENSE file for more information on the rights and limitations of use.
 
-##Contact
+## Contact
 If you have any questions or inquiries, feel free to contact me.
